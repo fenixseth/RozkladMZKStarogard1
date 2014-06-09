@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dark_red">#ff9b0000</color>
+    <color name="light_red">#fff60000</color>
+    <color name="paper">#fffdf0b7</color>
+    <color name="coal">#ff282828</color>
+    <color name="gold">#ffffe891</color>
+</resources>
